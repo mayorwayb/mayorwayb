@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mayorwayb
-- 👀 I’m interested in Sofware Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Sofware Engineering Student at ALX
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate and do projects
+- 📫 How to reach me mayorwayb@gmail.com
 
 <!---
 mayorwayb/mayorwayb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
